@@ -15,10 +15,6 @@ A Full Stack Developer To Contribute
 To Innovative Projects And Enhance
 User Experiences.
 
-- 👨‍💻 All of my projects are available at [ayanbasuli.com](ayanbasuli.com)
-
-- 💬 Ask me about **Core Java**
-
 - 📫 How to reach me **ayanbasuli@yahoo.com**
 
 - 📄 Know about my experiences [ayanbasuli.com](ayanbasuli.com)

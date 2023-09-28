@@ -1,10 +1,19 @@
 [![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)](https://github.com/RobinKumar5986)
 
 <h1 align="center">Hi 👋, I'm Ayan Basuli</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/76557731?v=4">
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Highly Motivated And Skilled BCA
+(Bachelor of Computer Applications)
+Student With A Passion For Web
+Development And A Solid Foundation
+In Full Stack Development. Seeking an
+Opportunity To Utilize My Technical
+Expertise And Problem-Solving Skills As
+A Full Stack Developer To Contribute
+To Innovative Projects And Enhance
+User Experiences.
 
 - 👨‍💻 All of my projects are available at [ayanbasuli.com](ayanbasuli.com)
 

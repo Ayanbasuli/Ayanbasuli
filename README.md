@@ -1,14 +1,13 @@
 [![MasterHead](Banner.gif)](https://github.com/ayanbasuli)
 
-<h1 align="center">Hi 👋, I'm Ayan Basuli</h1>
-<h3 align="center">Full Java Stack Developer</h3>
-
+#  Hi 👋, I'm Ayan Basuli
+#  Full Java Stack Developer
 #  About Me:
 Results-driven and detail-oriented Java Developer with a strong background in building robust and scalable web applications. Proficient in various Java technologies, including MVC, Spring Boot, Spring, Core Java, Advanced Java, SQL, NoSQL, Data Structures, and Hibernate. With a passion for crafting high-quality code, I am dedicated to delivering software solutions that meet and exceed client expectations.
 
 
 
-## Connect with me:
+##  Connect with me:
 <p align="left">
 <a href="https://twitter.com/ayanbasuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanbasuli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayanbasuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayanbasuli" height="30" width="40" /></a>

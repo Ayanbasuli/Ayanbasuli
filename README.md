@@ -1,7 +1,7 @@
 [![MasterHead](Banner.gif)](https://github.com/ayanbasuli)
 
 <h1 align="center">Hi 👋, I'm Ayan Basuli</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h3 align="center">Full Java Stack Developer</h3>
 
 # 💫 About Me:
 Results-driven and detail-oriented Java Developer with a strong background in building robust and scalable web applications. Proficient in various Java technologies, including MVC, Spring Boot, Spring, Core Java, Advanced Java, SQL, NoSQL, Data Structures, and Hibernate. With a passion for crafting high-quality code, I am dedicated to delivering software solutions that meet and exceed client expectations.
@@ -39,10 +39,3 @@ Results-driven and detail-oriented Java Developer with a strong background in bu
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayanbasuli) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ayanbasuli) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayanbasuli) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->in/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayanbasuli" height="30" width="40" /></a>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayanbasuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayanbasuli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanbasuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
